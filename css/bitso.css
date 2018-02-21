@@ -1,0 +1,49 @@
+#header-contenedor{
+    background-color: #f0f2f2;
+    color: white;
+}
+
+.navbar-nav li > a{
+    color:#666 !important;
+}
+
+.navbar-nav li > a:hover{
+    color:#666 !important;
+}
+
+.logo{
+    height: 36px;
+    width: 110px;
+}
+
+.mtwm-dropdown-toogle{
+    color: #666 !important;
+    background-color: #f0f2f2 !important;
+    border-right-color: #9E9E9E !important;
+    border-left-color: #f0f2f2 !important;
+    border-bottom-left-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+    border-top-left-radius: 0px !important;
+    border-top-right-radius: 0px !important;
+}
+.mtwm-ul-producs{
+    list-style: none;
+}
+.selected {
+    border-left: 4px solid #a5c88f
+}
+
+.btn-bitso-menu:not(:disabled):not(.disabled).active, .btn-bitso-menu:not(:disabled):not(.disabled):active, .show>.btn-bitso-menu.dropdown-toggle {
+    color: #757575 !important;
+    background-color: #f0f2f2 !important;
+    border-color: #f0f2f2 !important;
+}
+
+.logos-container{
+    margin-top: 15px;
+}
+
+.products-container{
+    margin-left: -15px !important;
+    margin-right: -15px !important;
+}

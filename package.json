@@ -1,0 +1,27 @@
+{
+  "name": "twm",
+  "version": "1.0.0",
+  "description": "Pŕactica 1 Barra de Navegación Responsive con Boostrap 4.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "start", 
+    "dev": "lite-server"
+  },
+  "keywords": [
+    "Bootstrap",
+    "NavBar",
+    "nmp",
+    "lite-server"
+  ],
+  "author": "Eduardo Isaias Oliva Espinosa",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "lite-server": "^2.3.0",
+    "popper": "^1.0.1"
+  },
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
